@@ -1,0 +1,6 @@
+{
+  "name": "Jay's Kitchen | Authentic Nigerian Food in Ghana",
+  "description": "Experience authentic Nigerian home-cooked meals in Ghana. Smoky party Jollof, Egusi soup, pounded yam, pepper soup, and delicious sides. Order fast via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
